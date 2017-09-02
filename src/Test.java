@@ -6,7 +6,5 @@ public class Test {
 		System.out.println("LOKESH");
 		System.out.println("MASTER");
 		System.out.println("test3");
-		System.out.println("LOKESH");
-		System.out.println("MASTER");
 	}
 }
